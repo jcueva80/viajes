@@ -1,0 +1,41 @@
+body {
+    font-family: "Playwrite PE", cursive;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+body {
+    background-color: black;
+}
+
+
+
+.navbar-brand img {
+    height: 30px;
+}
+
+
+.colorCeleste {
+    background-color: deepskyblue;
+}
+
+.container {
+    
+}
+
+ .header  {
+    background-color: transparent !important;
+
+}
+.navColor{
+    color: white;
+}
+
+.card-img-top {
+    height: 200px;
+}
+
+
+
